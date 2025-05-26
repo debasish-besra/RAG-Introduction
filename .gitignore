@@ -1,2 +1,8 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore environment variable file
 .env
-venv
+
+# Optional: Jupyter notebook checkpoints
+.ipynb_checkpoints/
