@@ -1,0 +1,5 @@
+ipykernel
+langchain-core
+langchain-community
+langchain-groq
+bs4
